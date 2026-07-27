@@ -1,0 +1,65 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets — NEVER commit
+.env
+*.key
+*.pem
+*.crt
+
+# Data directories (large files)
+data/uploads/
+data/processed/
+data/cache/
+data/exports/
+data/models/
+
+# Logs
+logs/
+*.log
+
+# Test outputs
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# Type checking
+.mypy_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Qdrant local storage
+qdrant_storage/
+
+# Model caches
+models/
+*.bin
+*.safetensors
+*.onnx

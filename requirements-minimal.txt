@@ -1,0 +1,15 @@
+# PaperMind AI — Minimal installation requirements.
+# Install these first, then install full requirements.txt
+# Minimal required for the scaffold to run
+fastapi>=0.115
+uvicorn[standard]>=0.32
+pydantic>=2.10
+pydantic-settings>=2.7
+python-dotenv>=1.0
+structlog>=24
+loguru>=0.7
+rich>=13
+groq>=0.13
+httpx>=0.28
+aiofiles>=24
+orjson>=3.10
