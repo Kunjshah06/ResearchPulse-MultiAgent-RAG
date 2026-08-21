@@ -200,13 +200,4 @@ pytest tests/unit --cov=papermind
 
 ---
 
-## 📄 License
 
-Distributed under the **MIT License**. See `LICENSE` for more details.
-
----
-
-## 👤 Author
-
-* **Developer**: Scientific AI Research & Engineering Team
-* **GitHub**: [@your-username](https://github.com/your-username)
