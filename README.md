@@ -1,4 +1,4 @@
-# 🧠 ResearchPulse AI — Multi-Agent Scientific Document Intelligence Platform
+# ResearchPulse AI — Multi-Agent Scientific Document Intelligence Platform
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110.0-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
